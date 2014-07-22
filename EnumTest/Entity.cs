@@ -13,7 +13,7 @@ namespace EnumTest
     public class Entity
     {
         public int ID { get; set; }
-        public Stuff? Stuff { get; set; }
+        //public Stuff? Stuff { get; set; }
         public int? OtherStuff { get; set; }
     }
 }
